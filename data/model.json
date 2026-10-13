@@ -1,0 +1,27 @@
+{
+  "id": "flux-2-pro",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:02Z",
+  "prices": {
+    "1MP": {
+      "list": 0.03,
+      "effective": 0.024
+    },
+    "2MP": {
+      "list": 0.045,
+      "effective": 0.036
+    },
+    "3MP": {
+      "list": 0.06,
+      "effective": 0.048
+    },
+    "4MP": {
+      "list": 0.075,
+      "effective": 0.06
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.024 per image (1MP $0.024 · 2MP $0.036 · 3MP $0.048)",
+  "model_page": "https://apimart.ai/model/flux-2"
+}
